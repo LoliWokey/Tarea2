@@ -18,7 +18,7 @@ Dataset llamado song_dataset_.csv con la informacion
 Clonar repositorio:
 ```
 bash
-git clone https://github.com/tu-usuario/spotifind.git
+git clone https://github.com/LoliWokey/Tarea2.git
 ```
 Compilar:
 
